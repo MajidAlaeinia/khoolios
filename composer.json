@@ -2,6 +2,7 @@
     "name": "majidalaeinia/khoolios",
     "description": "This is Khoolios package description.",
     "license": "MIT",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Majid Alaeinia",

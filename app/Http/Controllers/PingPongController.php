@@ -1,6 +1,6 @@
 <?php
 
-namespace MajidAlaeinnia\Khoolios\App\Http\Controllers;
+namespace MajidAlaeinnia\Khoolios\Http\Controllers;
 
 use Illuminate\Routing\Controller;
 

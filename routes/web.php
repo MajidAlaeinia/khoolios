@@ -1,7 +1,6 @@
 <?php
 
-
-use MajidAlaeinnia\Khoolios\App\Http\Controllers\PingPongController;
+use MajidAlaeinnia\Khoolios\Http\Controllers\PingPongController;
 
 Route::get('ping-get', function () {
     return 'pong-get';
